@@ -718,8 +718,8 @@ pins!(
     AF10,
     CLK: [PE10, PB10],
     nCS: [PE11, PB11],
-    IO0: [PE12, PB0],
-    IO1: [PE13, PB1],
+    IO0: [PE12, PB1],
+    IO1: [PE13, PB0],
     IO2: [PE14, PA7],
     IO3: [PE15, PA6]
 );
